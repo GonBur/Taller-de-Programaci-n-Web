@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*boton regresar*/
+section{
+    margin: 3%;
+}
+a{
+    font-size: 3vw;
+    text-decoration: none;
+    background-color: rgb(250, 186, 186);
+    border:  solid 4px rgb(255, 0, 0);
+}
+a:hover{
+    background-color: rgb(168, 168, 255);
+    color: black;
+}
+
+/*div_01*/
+.div_01 h1{
+    color: rgb(216, 5, 5);
+    text-align: center;
+    margin: 5%;
+    font-size: 4vw;
+}
+.div_01 p{
+    font-size: 3vw;
+    margin: 5%;
+}
+hr{
+    margin: 2%;
+    padding: 0.5%;
+    background-color: rgb(184, 191, 255);
+}
+
+/*div_02*/
+h2{
+    font-size: 4vw;
+    text-align: center;
+    margin: 2%;
+}
+ol{
+    font-size: 3vw;
+    padding-left: 20%;
+    margin: 2%;
+}
+
+h3{
+    font-size: 4vw;
+    text-align: center;
+    margin: 5%;
+}
+.parrafo{
+    font-size: 3vw;
+    margin-left: 10%;
+    margin-top: 1%;
+    margin-right: 30%;
+}
+
+
+
+
+
+
+/*pie de pagina*/
+
+/*div contenedor*/
+#contenedor{
+    background-color: rgb(218, 255, 242);
+    margin: 5% 5% 0% 5%;
+    display: flex;
+}
+/*div_01*/
+#div_01{
+    width: 70%;
+}
+#div_01 h4{
+    padding-left: 5%;
+    padding-top: 3%;
+    font-size: 2vw;
+}
+b{
+    color: rgb(255, 0, 119);
+}
+#div_01 p{
+    padding-left: 5%;
+    padding-top: 3%;
+    font-size: 2vw;
+}
+/*div_01*/
+#div_02{
+    width: 20%;
+}
+#div_02 img{
+    width: 20vw;
+    padding: 15%;
+}

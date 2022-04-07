@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+    background-color: rgb(224, 255, 198);
+    padding-bottom: 5%;
+}
+/*parte01*/
+h1{
+    color: red;
+    text-align: center;
+    margin-bottom: 3%;
+    padding-top: 5%;
+    font-size: 4vw;
+}
+h2{
+    color: blue;
+    padding-left: 5%;
+    font-size: 3vw;
+}
+.primer_div{
+    padding-bottom: 2.5%;
+    }
+ol{
+    padding-top: 3%;
+    padding-left: 25%;
+    font-size: 2vw;
+    color: rgb(0, 3, 187);
+}
+
+/*parte 02*/
+h3{
+    padding-left: 5%;
+    font-size: 2.5vw;
+    color: blueviolet;
+    text-align: center;
+}
+.parrafo{
+    padding-top: 2%;
+    font-size: 2vw;
+    text-align: center;
+}
+
+
+/*parte 03*/
+
+.segundo_div{
+padding-top: 2.5%;
+text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    background-color: rgb(255, 198, 177);
+    margin: 5%;
+    font-size: 2.5vw;
+    border: solid 5px red;
+    padding: 5px;
+}
+a:hover{
+    background-color: rgb(168, 168, 255);
+    color: black;
+}
+
+
+/*pie de pagina*/
+
+/*div contenedor*/
+#contenedor{
+    background-color: rgb(218, 255, 242);
+    margin: 5% 5% 0% 5%;
+    display: flex;
+}
+
+/*div_01*/
+#div_01{
+    width: 70%;
+}
+#div_01 h4{
+    padding-left: 5%;
+    padding-top: 3%;
+    font-size: 2vw;
+}
+b{
+    color: rgb(255, 0, 119);
+}
+#div_01 p{
+    padding-left: 5%;
+    padding-top: 3%;
+    font-size: 2vw;
+}
+/*div_01*/
+#div_02{
+    width: 20%;
+}
+#div_02 img{
+    width: 20vw;
+    padding: 15%;
+}
